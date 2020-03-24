@@ -13,3 +13,8 @@ end
 puts suma(12, 13)
 puts resta(12, 13)
 puts product(12, 13)
+
+
+puts suma(12, 6)
+puts resta(12, 6)
+puts product(12, 6)
